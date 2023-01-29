@@ -1,1 +1,1 @@
-# AsuhaKS
+asuks-std
